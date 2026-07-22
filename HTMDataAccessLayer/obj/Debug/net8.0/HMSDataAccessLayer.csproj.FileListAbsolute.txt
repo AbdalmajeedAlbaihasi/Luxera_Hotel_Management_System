@@ -1,0 +1,60 @@
+C:\Users\Abdalmajeed\Desktop\مشروع التخرج\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.deps.json
+C:\Users\Abdalmajeed\Desktop\مشروع التخرج\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.dll
+C:\Users\Abdalmajeed\Desktop\مشروع التخرج\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.pdb
+C:\Users\Abdalmajeed\Desktop\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdalmajeed\Desktop\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdalmajeed\Desktop\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdalmajeed\Desktop\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.AssemblyInfo.cs
+C:\Users\Abdalmajeed\Desktop\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdalmajeed\Desktop\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.dll
+C:\Users\Abdalmajeed\Desktop\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\refint\HMSDataAccessLayer.dll
+C:\Users\Abdalmajeed\Desktop\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.pdb
+C:\Users\Abdalmajeed\Desktop\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\ref\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\الفلاشه\ملفات سطح المكتب\مشروع التخرج\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.deps.json
+C:\Users\2tita\Desktop\الفلاشه\ملفات سطح المكتب\مشروع التخرج\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\الفلاشه\ملفات سطح المكتب\مشروع التخرج\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\الفلاشه\ملفات سطح المكتب\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\2tita\Desktop\الفلاشه\ملفات سطح المكتب\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\Desktop\الفلاشه\ملفات سطح المكتب\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\2tita\Desktop\الفلاشه\ملفات سطح المكتب\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.AssemblyInfo.cs
+C:\Users\2tita\Desktop\الفلاشه\ملفات سطح المكتب\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\الفلاشه\ملفات سطح المكتب\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\الفلاشه\ملفات سطح المكتب\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\refint\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\الفلاشه\ملفات سطح المكتب\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\الفلاشه\ملفات سطح المكتب\مشروع التخرج\HTMDataAccessLayer\obj\Debug\net8.0\ref\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.deps.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.AssemblyInfo.cs
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HTMDataAccessLayer\obj\Debug\net8.0\refint\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HTMDataAccessLayer\obj\Debug\net8.0\ref\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.deps.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.AssemblyInfo.cs
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HTMDataAccessLayer\obj\Debug\net8.0\refint\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HTMDataAccessLayer\obj\Debug\net8.0\ref\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.deps.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.AssemblyInfo.cs
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\obj\Debug\net8.0\refint\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\obj\Debug\net8.0\ref\HMSDataAccessLayer.dll

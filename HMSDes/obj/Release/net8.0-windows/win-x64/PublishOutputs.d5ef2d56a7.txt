@@ -1,0 +1,15 @@
+C:\Users\2tita\Desktop\HMS_Desktop_Release\appsettings.Development.json
+C:\Users\2tita\Desktop\HMS_Desktop_Release\appsettings.json
+C:\Users\2tita\Desktop\HMS_Desktop_Release\HMSDesktop.pdb
+C:\Users\2tita\Desktop\HMS_Desktop_Release\HMSApi.runtimeconfig.json
+C:\Users\2tita\Desktop\HMS_Desktop_Release\D3DCompiler_47_cor3.dll
+C:\Users\2tita\Desktop\HMS_Desktop_Release\PenImc_cor3.dll
+C:\Users\2tita\Desktop\HMS_Desktop_Release\PresentationNative_cor3.dll
+C:\Users\2tita\Desktop\HMS_Desktop_Release\vcruntime140_cor3.dll
+C:\Users\2tita\Desktop\HMS_Desktop_Release\wpfgfx_cor3.dll
+C:\Users\2tita\Desktop\HMS_Desktop_Release\aspnetcorev2_inprocess.dll
+C:\Users\2tita\Desktop\HMS_Desktop_Release\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\Desktop\HMS_Desktop_Release\HMSApi.pdb
+C:\Users\2tita\Desktop\HMS_Desktop_Release\HMSBusinessLayer.pdb
+C:\Users\2tita\Desktop\HMS_Desktop_Release\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\HMS_Desktop_Release\HMSDesktop.exe

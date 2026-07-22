@@ -1,0 +1,8 @@
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDes.Form1.resources
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.fmLogin.resources
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDes.csproj.GenerateResource.cache
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDes.AssemblyInfoInputs.cache
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDes.AssemblyInfo.cs
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDes.csproj.CoreCompileInputs.cache
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDes.csproj.AssemblyReference.cache

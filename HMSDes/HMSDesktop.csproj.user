@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\2tita\source\repos\HMSDesktop\HMSDes\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="fmLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Control\ucClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\ucReservation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\ucRoom.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\ucRoomTimeline.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\ucUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
