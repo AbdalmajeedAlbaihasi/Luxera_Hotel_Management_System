@@ -1,0 +1,439 @@
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.AssemblyReference.cache
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.GenerateResource.cache
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfoInputs.cache
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfo.cs
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.CoreCompileInputs.cache
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSApi.deps.json
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSApi.runtimeconfig.json
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSApi.staticwebassets.endpoints.json
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSApi.exe
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.exe
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.deps.json
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.runtimeconfig.json
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSApi.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSBusinessLayer.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSDataAccessLayer.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSApi.pdb
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSBusinessLayer.pdb
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\bin\Debug\net8.0-windows\HMSDataAccessLayer.pdb
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.Properties.Resources.resources
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.Up2Date
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\refint\HMSDesktop.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.genruntimeconfig.cache
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\ref\HMSDesktop.dll
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.fmLogIn.resources
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDes.fmMain.resources
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucClient.resources
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucReservation.resources
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoom.resources
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoomTimeline.resources
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Contrul.ucUser.resources
+C:\Users\2tita\source\repos\HMSDesktop\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.sourcelink.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSApi.deps.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSApi.runtimeconfig.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSApi.staticwebassets.endpoints.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSApi.exe
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.exe
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.deps.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.runtimeconfig.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSApi.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSBusinessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSApi.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSBusinessLayer.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\bin\Debug\net8.0-windows\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.AssemblyReference.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.fmLogIn.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDes.fmMain.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.Properties.Resources.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucClient.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucReservation.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoom.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoomTimeline.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Contrul.ucUser.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.GenerateResource.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfoInputs.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfo.cs
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.Up2Date
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\refint\HMSDesktop.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.genruntimeconfig.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\HMSDes\obj\Debug\net8.0-windows\ref\HMSDesktop.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\refint\HMSDesktop.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSApi.staticwebassets.endpoints.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSApi.deps.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSApi.runtimeconfig.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSApi.exe
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.exe
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.deps.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.runtimeconfig.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSApi.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSBusinessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSApi.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSBusinessLayer.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.AssemblyReference.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.fmLogIn.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDes.fmMain.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.Properties.Resources.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucClient.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucReservation.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoom.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoomTimeline.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Contrul.ucUser.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.GenerateResource.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfoInputs.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfo.cs
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.Up2Date
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.genruntimeconfig.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\obj\Debug\net8.0-windows\ref\HMSDesktop.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\المشروع كامل هنا\HMSDes\bin\Debug\net8.0-windows\BCrypt-Net-Next.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSApi.staticwebassets.endpoints.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSApi.deps.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSApi.runtimeconfig.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSApi.exe
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.exe
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.deps.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.runtimeconfig.json
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\BCrypt-Net-Next.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSApi.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSBusinessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSApi.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSBusinessLayer.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\bin\Debug\net8.0-windows\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.AssemblyReference.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.fmLogIn.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDes.fmMain.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.Properties.Resources.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucClient.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucReservation.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoom.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoomTimeline.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Contrul.ucUser.resources
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.GenerateResource.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfoInputs.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfo.cs
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.Up2Date
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\refint\HMSDesktop.dll
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.genruntimeconfig.cache
+C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\ref\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.exe
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.deps.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.runtimeconfig.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\BCrypt-Net-Next.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.AssemblyReference.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.fmLogIn.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.Properties.Resources.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucClient.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucReservation.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoom.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoomTimeline.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Contrul.ucUser.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.GenerateResource.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfoInputs.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfo.cs
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.sourcelink.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.Up2Date
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\refint\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.genruntimeconfig.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\ref\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.fmMain.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSShared.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSShared.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.csproj.AssemblyReference.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.fmLogIn.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.fmMain.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.Properties.Resources.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucClient.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucReservation.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoom.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoomTimeline.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.User_Contrul.ucUser.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.csproj.GenerateResource.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfoInputs.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfo.cs
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.sourcelink.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\refint\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\HMSDesktop.exe
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\HMSDesktop.deps.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\HMSDesktop.runtimeconfig.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\BCrypt-Net-Next.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\HMSShared.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\bin\Debug\net8.0-windows\HMSShared.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.csproj.Up2Date
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\HMSDesktop.genruntimeconfig.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\LuxeraDesktop\HMSDesktop\obj\Debug\net8.0-windows\ref\HMSDesktop.dll
