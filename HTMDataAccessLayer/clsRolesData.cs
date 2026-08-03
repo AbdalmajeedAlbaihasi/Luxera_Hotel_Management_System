@@ -2,44 +2,10 @@ using Microsoft.Data.SqlClient;
 using System;
 using System.Data;
 using System.Collections.Generic;
-using HMSDataAccessLayer;
+using HMSShared.DTOs.Roles;
 
 namespace HMSDataAccessLayer
 {
-    public class AddNewRoleDTO
-    {
-        public AddNewRoleDTO(string roleName)
-        {
-            RoleName = roleName;
-        }
-
-        public string RoleName { get; set; }
-    }
-
-    public class RoleListDTO
-    {
-        public RoleListDTO(int roleID, string roleName)
-        {
-            RoleID = roleID;
-            RoleName = roleName;
-        }
-
-        public int RoleID { get; set; }
-        public string RoleName { get; set; }
-    }
-
-    public class UpdateRoleDTO
-    {
-        public UpdateRoleDTO(int roleID, string roleName)
-        {
-            RoleID = roleID;
-            RoleName = roleName;
-        }
-
-        public int RoleID { get; set; }
-        public string RoleName { get; set; }
-    }
-
     public class clsRolesData
     {
         public static List<RoleListDTO> GetAllRoles()

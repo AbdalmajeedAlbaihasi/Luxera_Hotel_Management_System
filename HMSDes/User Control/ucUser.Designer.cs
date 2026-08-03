@@ -276,6 +276,7 @@
             comboBoxAddNationality.Name = "comboBoxAddNationality";
             comboBoxAddNationality.Size = new Size(139, 24);
             comboBoxAddNationality.TabIndex = 8;
+            comboBoxAddNationality.SelectedIndexChanged += comboBoxAddNationality_SelectedIndexChanged;
             // 
             // dateTimeAddBirthDate
             // 
@@ -538,9 +539,9 @@
             tabPageUpdateAndDelete.Controls.Add(txtUpdateLName);
             tabPageUpdateAndDelete.Controls.Add(label23);
             tabPageUpdateAndDelete.Controls.Add(groupBoxUpdateIsActive);
-            tabPageUpdateAndDelete.Location = new Point(4, 26);
+            tabPageUpdateAndDelete.Location = new Point(4, 24);
             tabPageUpdateAndDelete.Name = "tabPageUpdateAndDelete";
-            tabPageUpdateAndDelete.Size = new Size(891, 457);
+            tabPageUpdateAndDelete.Size = new Size(891, 459);
             tabPageUpdateAndDelete.TabIndex = 0;
             tabPageUpdateAndDelete.Text = "Update&Delete";
             tabPageUpdateAndDelete.UseVisualStyleBackColor = true;

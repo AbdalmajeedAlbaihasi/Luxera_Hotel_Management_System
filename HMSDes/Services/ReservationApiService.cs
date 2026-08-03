@@ -1,6 +1,4 @@
-﻿using HMSBusinessLayer;
-using HMSDataAccessLayer;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +6,7 @@ using System.Net.Http;
 using System.Security;
 using System.Text;
 using System.Threading.Tasks;
-
+using HMSShared.DTOs.Reservations;
 namespace HMSDesktop.Services
 {
     public class ReservationApiService : BaseApiService
@@ -47,10 +45,10 @@ namespace HMSDesktop.Services
             return await GetAsync<ReservationListDTO>($"ReservationAPI/{id}");
         }
 
-        public async Task<List<clsReservationsBusiness.RoomTimelineRow>> GetHotelTimelineAsync(DateTime startDate, DateTime endDate)
+        public async Task<List<RoomTimelineRowDTO>> GetHotelTimelineAsync(DateTime startDate, DateTime endDate)
         {
             string url = $"ReservationAPI/Timeline?startDate={startDate:yyyy-MM-dd}&endDate={endDate:yyyy-MM-dd}";
-            return await GetAsync<List<clsReservationsBusiness.RoomTimelineRow>>(url);
+            return await GetAsync<List<RoomTimelineRowDTO>>(url);
         }
 
     }

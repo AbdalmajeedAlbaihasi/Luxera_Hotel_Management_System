@@ -1,61 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\Full_Project\\HMSApi\\",
+  "WorkspaceRootPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\User Control\\ucRoomTimeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\HMSDes\\fmLogIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|c:\\users\\2tita\\desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\otel y\u00F6netim sistemi\\full_project\\hmsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|c:\\users\\2tita\\desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\otel y\u00F6netim sistemi\\full_project\\hmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|c:\\users\\2tita\\desktop\\luxera_hotel_management_system\\hmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|c:\\users\\2tita\\desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\otel y\u00F6netim sistemi\\full_project\\hmsapi\\controllers\\nationalitiesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|solutionrelative:controllers\\nationalitiesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|c:\\users\\2tita\\desktop\\luxera_hotel_management_system\\hmsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|c:\\users\\2tita\\desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\otel y\u00F6netim sistemi\\full_project\\hmsapi\\controllers\\paymentsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|solutionrelative:controllers\\paymentsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B90A81AF-EB59-43B2-B19A-7F2D4CB10332}|..\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj|c:\\users\\2tita\\desktop\\luxera_hotel_management_system\\htmdataaccesslayer\\clsusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsPersonsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsNationalitiesBusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsNationalitiesData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsPaymentsBusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsPaymentsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsPersonsBusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSApi\\Controllers\\PersonsAPIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\2tita\\desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\otel y\u00F6netim sistemi\\hmsdes\\fmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\HMSDes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\User Control\\ucClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B90A81AF-EB59-43B2-B19A-7F2D4CB10332}|..\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj|c:\\users\\2tita\\desktop\\luxera_hotel_management_system\\htmdataaccesslayer\\clsreservationsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,20 +24,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "clsPersonsData.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsPersonsData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsPersonsData.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsPersonsData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsPersonsData.cs",
-              "ViewState": "AgIAAPkAAAAAAAAAAAAAAAEBAABFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T07:41:18.264Z",
-              "IsPinned": true
+              "WhenOpened": "2026-08-03T10:04:47.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -98,194 +57,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ucRoomTimeline.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\User Control\\ucRoomTimeline.cs",
-              "RelativeDocumentMoniker": "..\\..\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\User Control\\ucRoomTimeline.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\User Control\\ucRoomTimeline.cs",
-              "RelativeToolTip": "..\\..\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\User Control\\ucRoomTimeline.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAcwEoAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T15:40:26.143Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-03T10:03:00.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ucClient.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\User Control\\ucClient.cs",
-              "RelativeDocumentMoniker": "..\\..\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\User Control\\ucClient.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\User Control\\ucClient.cs",
-              "RelativeToolTip": "..\\..\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\User Control\\ucClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T15:39:53.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\Program.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\Program.cs",
-              "RelativeToolTip": "..\\..\\\u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0643\u0627\u0645\u0644 \u0647\u0646\u0627\\HMSDes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T15:31:57.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "fmLogIn.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\HMSDes\\fmLogIn.cs",
-              "RelativeDocumentMoniker": "..\\..\\HMSDes\\fmLogIn.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\HMSDes\\fmLogIn.cs",
-              "RelativeToolTip": "..\\..\\HMSDes\\fmLogIn.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T15:09:28.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "fmLogIn.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\Full_Project\\HMSDes\\fmLogIn.cs",
-              "RelativeDocumentMoniker": "..\\HMSDes\\fmLogIn.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\HMSDes\\fmLogIn.cs [Design]",
-              "RelativeToolTip": "..\\..\\HMSDes\\fmLogIn.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T15:09:09.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\HMSDes\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\HMSDes\\Program.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\HMSDes\\Program.cs",
-              "RelativeToolTip": "..\\..\\HMSDes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T15:07:01.248Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\Full_Project\\HMSApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\Full_Project\\HMSApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-13T19:20:23.455Z"
+              "Title": "clsUsersData.cs",
+              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsUsersData.cs",
+              "RelativeDocumentMoniker": "..\\HTMDataAccessLayer\\clsUsersData.cs",
+              "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsUsersData.cs",
+              "RelativeToolTip": "..\\HTMDataAccessLayer\\clsUsersData.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAI8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T17:12:42.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\Full_Project\\HMSApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\Full_Project\\HMSApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAD0AAAAKAAAAAAAAAA==",
+              "Title": "clsReservationsData.cs",
+              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsReservationsData.cs",
+              "RelativeDocumentMoniker": "..\\HTMDataAccessLayer\\clsReservationsData.cs",
+              "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsReservationsData.cs",
+              "RelativeToolTip": "..\\HTMDataAccessLayer\\clsReservationsData.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAqwMUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T17:24:05.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NationalitiesAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\Full_Project\\HMSApi\\Controllers\\NationalitiesAPIController.cs",
-              "RelativeDocumentMoniker": "Controllers\\NationalitiesAPIController.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\Full_Project\\HMSApi\\Controllers\\NationalitiesAPIController.cs",
-              "RelativeToolTip": "Controllers\\NationalitiesAPIController.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAwwHkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T14:13:30.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "clsNationalitiesBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsNationalitiesBusiness.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsNationalitiesBusiness.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsNationalitiesBusiness.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsNationalitiesBusiness.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAwwG4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T14:13:13.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "clsNationalitiesData.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsNationalitiesData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsNationalitiesData.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsNationalitiesData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsNationalitiesData.cs",
-              "ViewState": "AgIAALIAAAAAAAAAAAAwwLoAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T14:11:32.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PaymentsAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\Full_Project\\HMSApi\\Controllers\\PaymentsAPIController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PaymentsAPIController.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Otel Y\u00F6netim Sistemi\\Full_Project\\HMSApi\\Controllers\\PaymentsAPIController.cs",
-              "RelativeToolTip": "Controllers\\PaymentsAPIController.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAwwIIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T14:07:59.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "clsPaymentsBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsPaymentsBusiness.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsPaymentsBusiness.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsPaymentsBusiness.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsPaymentsBusiness.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T14:07:34.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "clsPaymentsData.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsPaymentsData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsPaymentsData.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsPaymentsData.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HTMDataAccessLayer\\clsPaymentsData.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAAAMcAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T14:04:19.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "clsPersonsBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsPersonsBusiness.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsPersonsBusiness.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsPersonsBusiness.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSBusinessLayer\\clsPersonsBusiness.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAqwIYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T13:59:51.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PersonsAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSApi\\Controllers\\PersonsAPIController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSApi\\Controllers\\PersonsAPIController.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSApi\\Controllers\\PersonsAPIController.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\\u0627\u0644\u0641\u0644\u0627\u0634\u0647\\\u0645\u0644\u0641\u0627\u062A \u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\HMSApi\\Controllers\\PersonsAPIController.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAUwJcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T13:59:11.634Z"
+              "WhenOpened": "2026-08-01T17:11:16.173Z"
             }
           ]
         }

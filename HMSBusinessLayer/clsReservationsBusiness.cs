@@ -2,6 +2,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using HMSShared.DTOs.Reservations;
+
 
 namespace HMSBusinessLayer
 {
@@ -61,26 +63,6 @@ namespace HMSBusinessLayer
         }
 
 
-
-
-
-        //classes
-        public class RoomTimelineRow
-        {
-            public int RoomID { get; set; }
-            public string RoomNumber { get; set; }
-            public string RoomType { get; set; }
-            public string RoomCurrentStatus { get; set; }
-            public Dictionary<DateTime, DayStatusInfo> Days { get; set; }
-                = new Dictionary<DateTime, DayStatusInfo>();
-        }
-
-        public class DayStatusInfo
-        {
-            public string Status { get; set; }
-            public string GuestName { get; set; }
-            public int? ReservationID { get; set; }
-        }
 
 
 
@@ -201,13 +183,13 @@ namespace HMSBusinessLayer
             return false;
         }
 
-        public static List<RoomTimelineRow> GetHotelTimeline(DateTime startDate, DateTime endDate)
+        public static List<RoomTimelineRowDTO> GetHotelTimeline(DateTime startDate, DateTime endDate)
         {
             var rawData = clsReservationsData.GetRoomTimelineData(startDate, endDate);
 
             return rawData
                 .GroupBy(x => x.RoomID)
-                .Select(g => new RoomTimelineRow
+                .Select(g => new RoomTimelineRowDTO
                 {
                     RoomID = g.Key,
                     RoomNumber = g.First().RoomNumber,
@@ -218,10 +200,12 @@ namespace HMSBusinessLayer
                 .ToList();
         }
 
-        private static Dictionary<DateTime, DayStatusInfo> MapDays( List<RoomTimelineDTO.RoomAvailabilityInfo> data,
-                                                                    DateTime start, DateTime end)
+        private static Dictionary<DateTime, DayStatusInfoDTO> MapDays(
+                                            List<RoomAvailabilityInfoDTO> data,
+                                            DateTime start,
+                                            DateTime end)
         {
-            var dict = new Dictionary<DateTime, DayStatusInfo>();
+            var dict = new Dictionary<DateTime, DayStatusInfoDTO>();
 
             for (DateTime d = start.Date; d <= end.Date; d = d.AddDays(1))
             {
@@ -233,7 +217,7 @@ namespace HMSBusinessLayer
 
                 if (res != null)
                 {
-                    dict[d] = new DayStatusInfo
+                    dict[d] = new DayStatusInfoDTO
                     {
                         Status = "Reserved",
                         GuestName = res.GuestName,
@@ -242,7 +226,7 @@ namespace HMSBusinessLayer
                 }
                 else
                 {
-                    dict[d] = new DayStatusInfo
+                    dict[d] = new DayStatusInfoDTO
                     {
                         Status = data.FirstOrDefault()?.RoomCurrentStatus ?? "Available",
                         GuestName = "",

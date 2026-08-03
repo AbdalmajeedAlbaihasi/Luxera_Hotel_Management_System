@@ -1,6 +1,4 @@
-﻿using HMSDes;
-using HMSDesktop.Services;
-using HMSDataAccessLayer;
+﻿using HMSDesktop.Services;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,6 +9,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using HMSShared.DTOs.Users;
 
 namespace HMSDesktop
 {
@@ -43,40 +42,37 @@ namespace HMSDesktop
         //Event Handlers
         private async void butLogin_Click(object sender, EventArgs e)
         {
-            LoginDTO dto = new LoginDTO(txtUserName.Text, txtBoxPassword.Text);
+            LoginDTO dto = new LoginDTO(
+                txtUserName.Text.Trim(),
+                txtBoxPassword.Text
+            );
 
             var user = await service.LoginAsync(dto);
 
             if (user != null)
             {
-                if (user.IsActive)
-                {
-                    UserId.userID = user.UserID;
-                    fmMain fmMain = new fmMain(user.RoleName);
-                    fmMain.Name = user.FName + " " + user.LName;
-                    ClearFields();
-                    fmMain.Show();
-                    this.Hide();
-                }
-                else
-                {
-                    MessageBox.Show(
-                        "Your account is inactive. Please contact the administrator.",
-                        "Account Inactive",
-                        MessageBoxButtons.OK,
-                        MessageBoxIcon.Warning
-                    );
-                }
+                // حفظ الـ Access Token ليستخدم في جميع الطلبات القادمة
+                BaseApiService.SetToken(user.AccessToken);
 
+                UserId.userID = user.UserID;
+
+                fmMain main = new fmMain(user.Role);
+
+                main.Name = user.UserName;
+
+                ClearFields();
+
+                main.Show();
+
+                this.Hide();
             }
             else
             {
                 MessageBox.Show(
-                    "Username or password is incorrect. Please try again.",
-                    "Authentication Error",
+                    "Username or password is incorrect.",
+                    "Login Failed",
                     MessageBoxButtons.OK,
-                    MessageBoxIcon.Error
-                );
+                    MessageBoxIcon.Error);
             }
         }
 

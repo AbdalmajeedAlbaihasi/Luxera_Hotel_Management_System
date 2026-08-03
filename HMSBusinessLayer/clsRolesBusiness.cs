@@ -1,5 +1,7 @@
 using HMSDataAccessLayer;
 using System.Collections.Generic;
+using HMSShared.DTOs.Roles;
+
 
 namespace HMSBusinessLayer
 {

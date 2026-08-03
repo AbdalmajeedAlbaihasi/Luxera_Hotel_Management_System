@@ -1,10 +1,10 @@
-﻿using HMSDataAccessLayer;
-using HMSDataAccessLayer;
-using HMSDesktop.ApplicationServices;
+﻿using HMSDesktop.ApplicationServices;
 using HMSDesktop.Properties;
 using HMSDesktop.Services;
 using System.Collections.Generic;
 using System.Text.Json;
+using HMSShared.DTOs.Users;
+using HMSShared.DTOs.Nationalities;
 
 
 namespace HMSDesktop.User_Contrul
@@ -21,12 +21,23 @@ namespace HMSDesktop.User_Contrul
 
         }
 
+        public ucUser(string Role)
+        {
+            InitializeComponent();
+            _nationalitiesApiservice = new NationalitiesApiService();
+            _userservice = new UserService();
+            AddImage = new OpenFileDialog();
+            UpdateImage = new OpenFileDialog();
+            _roleName = Role;
+        }
+
         // Services and fields
         private readonly UserService _userservice;
         private readonly NationalitiesApiService _nationalitiesApiservice;
         OpenFileDialog AddImage;
         OpenFileDialog UpdateImage;
         public int UserId { get; set; }
+        public string _roleName { get; set; }
         private bool _isLoaded = false;
 
 
@@ -222,7 +233,7 @@ namespace HMSDesktop.User_Contrul
             UserId = user.UserID;
 
             txtUpdateUserName.Text = user.UserName;
-            txtUpdatePassword.Text = user.Password;
+            txtUpdatePassword.Text = "";
             txtUpdateFName.Text = user.FName;
             txtUpdateLName.Text = user.LName;
             txtUpdatePhoneNumber.Text = user.PhoneNumber;
@@ -317,7 +328,7 @@ namespace HMSDesktop.User_Contrul
                 Convert.ToInt32(comboBoxAddNationality.SelectedValue),
                 radButAddGenderMale.Checked ? "Male" : "Female",
                 radButAddRoleNameAdmin.Checked ? "Admin" : "Manager",
-                string.IsNullOrWhiteSpace(AddImage.FileName) ? "" : AddImage.FileName  
+                string.IsNullOrWhiteSpace(AddImage.FileName) ? "" : AddImage.FileName
 
             );
         }
@@ -349,18 +360,22 @@ namespace HMSDesktop.User_Contrul
         // Event handlers
         private async void UserControl_Load(object sender, EventArgs e)
         {
-            if (_isLoaded) return;
-            _isLoaded = true;
+            if (_roleName == "Manager")
+            {
+                if (_isLoaded) return;
+                _isLoaded = true;
 
-            await LoadNationalities();
-            await LoadUsers();
-            comboBoxSearchingType.SelectedIndex = 0;
-            dateTimeAddBirthDate.MaxDate = DateTime.Today.AddYears(-18);
-            dateTimeUpdateBirthDate.MaxDate = DateTime.Today.AddYears(-18);
-            dateTimeAddBirthDate.Format = DateTimePickerFormat.Custom;
-            dateTimeAddBirthDate.CustomFormat = "dd MMM yyyy";
-            dateTimeUpdateBirthDate.Format = DateTimePickerFormat.Custom;
-            dateTimeUpdateBirthDate.CustomFormat = "dd MMM yyyy";
+                await LoadNationalities();
+                await LoadUsers();
+                comboBoxSearchingType.SelectedIndex = 0;
+                dateTimeAddBirthDate.MaxDate = DateTime.Today.AddYears(-18);
+                dateTimeUpdateBirthDate.MaxDate = DateTime.Today.AddYears(-18);
+                dateTimeAddBirthDate.Format = DateTimePickerFormat.Custom;
+                dateTimeAddBirthDate.CustomFormat = "dd MMM yyyy";
+                dateTimeUpdateBirthDate.Format = DateTimePickerFormat.Custom;
+                dateTimeUpdateBirthDate.CustomFormat = "dd MMM yyyy";
+            }
+
         }
 
 
@@ -636,6 +651,11 @@ namespace HMSDesktop.User_Contrul
 
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void comboBoxAddNationality_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

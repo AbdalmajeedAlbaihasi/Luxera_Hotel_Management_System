@@ -1,10 +1,9 @@
-﻿using HMSBusinessLayer;
-using HMSDataAccessLayer;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HMSShared.DTOs.Reservations;
 
 namespace HMSDesktop.Services
 {
@@ -56,7 +55,7 @@ namespace HMSDesktop.Services
             return await _api.GetReservationByIdAsync(id);
         }
 
-        public async Task<List<clsReservationsBusiness.RoomTimelineRow>> GetHotelTimeline(DateTime startDate, DateTime endDate)
+        public async Task<List<RoomTimelineRowDTO>> GetHotelTimeline(DateTime startDate, DateTime endDate)
         {
             return await _api.GetHotelTimelineAsync(startDate, endDate);
         }

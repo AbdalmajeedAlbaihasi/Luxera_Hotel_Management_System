@@ -1,59 +1,11 @@
 using Microsoft.Data.SqlClient;
 using System;
 using System.Data;
-using System.Collections.Generic;
-using HMSDataAccessLayer;
+using HMSShared.DTOs.Payments;
+
 
 namespace HMSDataAccessLayer
 {
-    public class AddNewPaymentDTO
-    {
-        public AddNewPaymentDTO(int reservationID, decimal amount, string paymentMethod)
-        {
-            ReservationID = reservationID;
-            Amount = amount;
-            PaymentMethod = paymentMethod;
-        }
-
-        public int ReservationID { get; set; }
-        public decimal Amount { get; set; }
-        public string PaymentMethod { get; set; }
-    }
-
-    public class PaymentListDTO
-    {
-        public PaymentListDTO(int paymentID, int reservationID, decimal amount, string paymentMethod, DateTime paymentDate)
-        {
-            PaymentID = paymentID;
-            ReservationID = reservationID;
-            Amount = amount;
-            PaymentMethod = paymentMethod;
-            PaymentDate = paymentDate;
-        }
-
-        public int PaymentID { get; set; }
-        public int ReservationID { get; set; }
-        public decimal Amount { get; set; }
-        public string PaymentMethod { get; set; }
-        public DateTime PaymentDate { get; set; }
-    }
-
-    public class UpdatePaymentDTO
-    {
-        public UpdatePaymentDTO(int paymentID, int reservationID, decimal amount, string paymentMethod)
-        {
-            PaymentID = paymentID;
-            ReservationID = reservationID;
-            Amount = amount;
-            PaymentMethod = paymentMethod;
-        }
-
-        public int PaymentID { get; set; }
-        public int ReservationID { get; set; }
-        public decimal Amount { get; set; }
-        public string PaymentMethod { get; set; }
-    }
-
     public class clsPaymentsData
     {
         public static List<PaymentListDTO> GetAllPayments()

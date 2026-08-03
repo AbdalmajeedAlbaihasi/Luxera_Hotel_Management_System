@@ -1,5 +1,5 @@
-﻿using HMSDataAccessLayer;
-using HMSDesktop.Services;
+﻿using HMSDesktop.Services;
+using HMSShared.DTOs.Users;
 
 namespace HMSDesktop.ApplicationServices
 {
@@ -57,7 +57,7 @@ namespace HMSDesktop.ApplicationServices
         }
 
 
-        public async Task<UserLoginDTO> UserLoginAsync(LoginDTO dto)
+        public async Task<LoginResponseDTO> UserLoginAsync(LoginDTO dto)
         {
             return await _api.LoginAsync(dto);
         }

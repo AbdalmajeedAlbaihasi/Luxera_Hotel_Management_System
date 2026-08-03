@@ -58,3 +58,19 @@ C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Pr
 C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\obj\Debug\net8.0\refint\HMSDataAccessLayer.dll
 C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.pdb
 C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HTMDataAccessLayer\obj\Debug\net8.0\ref\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.deps.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\bin\Debug\net8.0\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.AssemblyInfo.cs
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.sourcelink.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\obj\Debug\net8.0\refint\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataAccessLayer.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\obj\Debug\net8.0\ref\HMSDataAccessLayer.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\obj\Debug\net8.0\HMSDataA.BBEED192.Up2Date
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\bin\Debug\net8.0\HMSShared.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HTMDataAccessLayer\bin\Debug\net8.0\HMSShared.pdb

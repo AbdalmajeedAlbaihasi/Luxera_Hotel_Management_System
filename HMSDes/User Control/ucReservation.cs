@@ -1,5 +1,4 @@
-﻿using HMSDataAccessLayer;
-using HMSDesktop.Services;
+﻿using HMSDesktop.Services;
 using Microsoft.VisualBasic.ApplicationServices;
 using System;
 using System.Collections.Generic;
@@ -10,6 +9,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using HMSShared.DTOs.Reservations;
+using HMSShared.DTOs.Client;
 
 namespace HMSDesktop.User_Control
 {

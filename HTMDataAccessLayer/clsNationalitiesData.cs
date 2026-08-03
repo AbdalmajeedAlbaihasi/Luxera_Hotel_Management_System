@@ -1,44 +1,10 @@
 using Microsoft.Data.SqlClient;
 using System;
 using System.Data;
-using System.Collections.Generic;
-using HMSDataAccessLayer;
+using HMSShared.DTOs.Nationalities;
 
 namespace HMSDataAccessLayer
 {
-    public class AddNewNationalityDTO
-    {
-        public AddNewNationalityDTO(string nationalityName)
-        {
-            NationalityName = nationalityName;
-        }
-
-        public string NationalityName { get; set; }
-    }
-
-    public class NationalityListDTO
-    {
-        public NationalityListDTO(int nationalityID, string nationalityName)
-        {
-            NationalityID = nationalityID;
-            NationalityName = nationalityName;
-        }
-
-        public int NationalityID { get; set; }
-        public string NationalityName { get; set; }
-    }
-
-    public class UpdateNationalityDTO
-    {
-        public UpdateNationalityDTO(int nationalityID, string nationalityName)
-        {
-            NationalityID = nationalityID;
-            NationalityName = nationalityName;
-        }
-
-        public int NationalityID { get; set; }
-        public string NationalityName { get; set; }
-    }
 
     public class clsNationalitiesData
     {

@@ -1,15 +1,34 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using HMSApi.Services;
 using HMSBusinessLayer;
-using HMSDataAccessLayer;
+using HMSShared.DTOs.Client;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+
 
 namespace HMSApi.Controllers
 {
+    [Authorize(Policy = "CanManageHotel")]
     [Route("api/[controller]")]
     [ApiController]
     public class ClientAPIController : ControllerBase
     {
+
+        private readonly AuditBusiness _auditBusiness;
+        private readonly UserContextService _userContext;
+
+
+        public ClientAPIController(
+    AuditBusiness auditBusiness,
+    UserContextService userContext)
+        {
+            _auditBusiness = auditBusiness;
+            _userContext = userContext;
+        }
+
+
+
 
         [HttpPost("Add", Name = "AddClient")]
         [ProducesResponseType(StatusCodes.Status201Created)]
@@ -22,7 +41,7 @@ namespace HMSApi.Controllers
 
             clsClientsBusiness client = new clsClientsBusiness();
 
-            client.CreatedByUserID = dto.CreatedByUserID;
+            client.CreatedByUserID = _userContext.GetCurrentUserID();
             client.FirstName = dto.FirstName;
             client.LastName = dto.LastName;
             client.BirthDate = dto.BirthDate;
@@ -32,6 +51,12 @@ namespace HMSApi.Controllers
 
             if (!client.Save())
                 return BadRequest("Failed to add client");
+
+            _auditBusiness.AddLog(
+                            _userContext.GetCurrentUserID(),
+                            "ADD_CLIENT",
+                            $"Added client {client.FirstName} {client.LastName}"
+                        );
 
             return CreatedAtRoute("GetClientById", new { Id = client.ClientID }, client.ClientListDto);
         }
@@ -53,7 +78,7 @@ namespace HMSApi.Controllers
             if (client == null)
                 return NotFound("Client Not Found");
 
-            client.CreatedByUserID = dto.CreatedByUserID;
+            client.CreatedByUserID = _userContext.GetCurrentUserID();
             client.FirstName = dto.FirstName;
             client.LastName = dto.LastName;
             client.BirthDate = dto.BirthDate;
@@ -63,6 +88,13 @@ namespace HMSApi.Controllers
 
             if (!client.Save())
                 return BadRequest("Update Failed");
+
+            _auditBusiness.AddLog(
+                    _userContext.GetCurrentUserID(),
+                    "UPDATE_CLIENT",
+                    $"Updated client ID {Id}"
+                );
+
 
             return Ok("Updated Successfully");
         }
@@ -81,6 +113,12 @@ namespace HMSApi.Controllers
 
             if (!clsClientsBusiness.DeleteClient(Id))
                 return NotFound("Client Not Found");
+
+            _auditBusiness.AddLog(
+                    _userContext.GetCurrentUserID(),
+                    "DELETE_CLIENT",
+                    $"Deleted client ID {Id}"
+                );
 
             return Ok("Deleted Successfully");
         }

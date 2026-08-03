@@ -1,183 +1,10 @@
 ﻿using Microsoft.Data.SqlClient;
 using System;
+using HMSShared.DTOs.Users;
 using System.Data;
-using System.Collections.Generic;
-using System.Data.Common;
-using HMSDataAccessLayer;
 
 namespace HMSDataAccessLayer
 {
-    // DTOs
-    public class UserLoginDTO
-    {
-        public UserLoginDTO(int userID, string Fname, string Lname, bool isActive, string roleName)
-        {
-            UserID = userID;
-            this.FName = Fname;
-            this.LName = Lname;
-            IsActive = isActive;
-            RoleName = roleName;
-        }
-        public int UserID { get; set; }
-        public string FName { get; set; }
-        public string LName { get; set; }
-        public string UserName { get; set; }
-        public bool IsActive { get; set; }
-        public string RoleName { get; set; }
-    }
-
-    public class LoginDTO
-    {
-        public LoginDTO(string username, string password)
-        {
-            UserName = username;
-            Password = password;
-        }
-        public string UserName { get; set; }
-        public string Password { get; set; }
-    }
-
-    public class UsernameDTO
-    {
-        public UsernameDTO(string userName)
-        {
-            UserName = userName;
-        }
-        public string UserName { get; set; }
-    }
-
-    public class AddNewUserDTO
-    {
-        public AddNewUserDTO(string username, string Password, bool isActive, string Fname, string Lname,
-            DateTime BirthDate, string PhoneNumber, int NationalityID, string Gender, string RoleName, string ImagePath)
-        {
-            this.UserName = username;
-            this.Password = Password;
-            this.IsActive = isActive;
-            this.FName = Fname;
-            this.LName = Lname;
-            this.BirthDate = BirthDate;
-            this.PhoneNumber = PhoneNumber;
-            this.NationalityID = NationalityID;
-            this.Gender = Gender;
-            this.RoleName = RoleName;
-            this.ImagePath = ImagePath;
-        }
-        public string UserName { get; set; }
-        public string Password { get; set; }
-        public bool IsActive { get; set; }
-        public string FName { get; set; }
-        public string LName { get; set; }
-        public DateTime BirthDate { get; set; }
-        public string PhoneNumber { get; set; }
-        public int NationalityID { get; set; }
-        public string Gender { get; set; }
-        public string RoleName { get; set; }
-        public string ImagePath { get; set; }
-    }
-
-    public class UserListDTO
-    {
-        public UserListDTO(int UserID, string username, bool isActive, DateTime CreatedAt, string Fname, string Lname,
-            DateTime BirthDate, string PhoneNumber, int NationalityID, string NationalityName, string Gender, string RoleName)
-        {
-            this.UserID = UserID;
-            this.UserName = username;
-            this.IsActive = isActive;
-            this.CreatedAt = CreatedAt;
-            this.FName = Fname;
-            this.LName = Lname;
-            this.BirthDate = BirthDate;
-            this.PhoneNumber = PhoneNumber;
-            this.NationalityID = NationalityID;
-            this.NationalityName = NationalityName;
-            this.Gender = Gender;
-            this.RoleName = RoleName;
-        }
-        public int UserID { get; set; }
-        public string UserName { get; set; }
-        public bool IsActive { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public string FName { get; set; }
-        public string LName { get; set; }
-        public DateTime BirthDate { get; set; }
-        public string PhoneNumber { get; set; }
-        public int NationalityID { get; set; }
-        public string NationalityName { get; set; }
-        public string Gender { get; set; }
-        public string RoleName { get; set; }
-    }
-
-    public class OneUserListDTO
-    {
-        public OneUserListDTO(int UserID, string username, string Password, bool isActive, string Fname, string Lname,
-            DateTime BirthDate, string PhoneNumber, int NationalityID, string NationalityName, string Gender, string RoleName, string ImagePath)
-        {
-            this.UserID = UserID;
-            this.UserName = username;
-            this.Password = Password;
-            this.IsActive = isActive;
-            this.FName = Fname;
-            this.LName = Lname;
-            this.BirthDate = BirthDate;
-            this.PhoneNumber = PhoneNumber;
-            this.NationalityID = NationalityID;
-            this.NationalityName = NationalityName;
-            this.Gender = Gender;
-            this.RoleName = RoleName;
-            this.ImagePath = ImagePath;
-        }
-        public int UserID { get; set; }
-        public string UserName { get; set; }
-        public string Password { get; set; }
-        public bool IsActive { get; set; }
-        public string FName { get; set; }
-        public string LName { get; set; }
-        public DateTime BirthDate { get; set; }
-        public string PhoneNumber { get; set; }
-        public int NationalityID { get; set; }
-        public string NationalityName { get; set; }
-        public string Gender { get; set; }
-        public string RoleName { get; set; }
-        public string ImagePath { get; set; }
-    }
-
-    public class UpdateUserDTO
-    {
-        public UpdateUserDTO(int UserID, string Username, string Password, bool isActive, string Fname, string Lname,
-            DateTime BirthDate, string PhoneNumber, int NationalityID, string Gender, string RoleName, string ImagePath)
-        {
-            this.UserID = UserID;
-            this.UserName = Username;
-            this.Password = Password;
-            this.IsActive = isActive;
-            this.FName = Fname;
-            this.LName = Lname;
-            this.BirthDate = BirthDate;
-            this.PhoneNumber = PhoneNumber;
-            this.NationalityID = NationalityID;
-            this.Gender = Gender;
-            this.RoleName = RoleName;
-            this.ImagePath = ImagePath;
-        }
-        public int UserID { get; set; }
-        public string UserName { get; set; }
-        public string Password { get; set; }
-        public bool IsActive { get; set; }
-        public string FName { get; set; }
-        public string LName { get; set; }
-        public DateTime BirthDate { get; set; }
-        public string PhoneNumber { get; set; }
-        public int NationalityID { get; set; }
-        public string Gender { get; set; }
-        public string RoleName { get; set; }
-        public string? ImagePath { get; set; }
-    }
-
-
-
-
-
     public class clsUsersData
     {
         public static int AddNewUser(AddNewUserDTO DTO)
@@ -249,7 +76,6 @@ namespace HMSDataAccessLayer
                             return new OneUserListDTO(
                                 reader.GetInt32(reader.GetOrdinal("UserID")),
                                 reader["Username"]?.ToString() ?? "",
-                                reader["PasswordHash"]?.ToString() ?? "",
                                 reader.GetBoolean(reader.GetOrdinal("IsActive")),
                                 reader["FirstName"]?.ToString() ?? "",
                                 reader["LastName"]?.ToString() ?? "",
@@ -285,7 +111,6 @@ namespace HMSDataAccessLayer
                             return new OneUserListDTO(
                                 reader.GetInt32(reader.GetOrdinal("UserID")),
                                 reader["Username"]?.ToString() ?? "",
-                                reader["PasswordHash"]?.ToString() ?? "",
                                 reader.GetBoolean(reader.GetOrdinal("IsActive")),
                                 reader["FirstName"]?.ToString() ?? "",
                                 reader["LastName"]?.ToString() ?? "",
@@ -349,7 +174,12 @@ namespace HMSDataAccessLayer
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.Parameters.AddWithValue("@UserID", Dto.UserID);
                     cmd.Parameters.AddWithValue("@UserName", Dto.UserName);
-                    cmd.Parameters.AddWithValue("@PasswordHash", Dto.Password);
+                    cmd.Parameters.AddWithValue(
+                        "@PasswordHash",
+                        string.IsNullOrWhiteSpace(Dto.Password)
+                            ? (object)DBNull.Value
+                            : Dto.Password
+                    );
                     cmd.Parameters.AddWithValue("@IsActive", Dto.IsActive);
                     cmd.Parameters.AddWithValue("@FName", Dto.FName);
                     cmd.Parameters.AddWithValue("@LName", Dto.LName);
@@ -381,7 +211,8 @@ namespace HMSDataAccessLayer
         }
 
 
-        public static UserLoginDTO AuthenticateUser(string username, string password)
+
+        public static UserLoginDTO AuthenticateUser(string username)
         {
             using (SqlConnection con = new SqlConnection(DBConnection._connectionString))
             {
@@ -389,7 +220,6 @@ namespace HMSDataAccessLayer
                 {
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.Parameters.AddWithValue("@Username", username);
-                    cmd.Parameters.AddWithValue("@PasswordHash", password);
                     con.Open();
                     using (SqlDataReader reader = cmd.ExecuteReader())
                     {
@@ -397,10 +227,10 @@ namespace HMSDataAccessLayer
                         {
                             return new UserLoginDTO(
                                 reader.GetInt32(reader.GetOrdinal("UserID")),
-                                reader.GetString(reader.GetOrdinal("FirstName")),
-                                reader.GetString(reader.GetOrdinal("LastName")),
+                                reader.GetString(reader.GetOrdinal("userName")),
                                 reader.GetBoolean(reader.GetOrdinal("IsActive")),
-                                reader.GetString(reader.GetOrdinal("RoleName"))
+                                reader.GetString(reader.GetOrdinal("RoleName")),
+                                reader.GetString(reader.GetOrdinal("PasswordHash"))
                             );
                         }
                     }

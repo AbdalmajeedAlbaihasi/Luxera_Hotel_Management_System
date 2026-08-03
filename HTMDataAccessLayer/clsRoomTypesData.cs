@@ -2,51 +2,10 @@ using Microsoft.Data.SqlClient;
 using System;
 using System.Data;
 using System.Collections.Generic;
-using HMSDataAccessLayer;
+using HMSShared.DTOs.RoomTypes;
 
 namespace HMSDataAccessLayer
 {
-    //DTOs
-    public class AddNewRoomTypeDTO
-    {
-        public AddNewRoomTypeDTO(string typeName)
-        {
-            TypeName = typeName;
-        }
-
-        public string TypeName { get; set; }
-    }
-
-    public class RoomTypeListDTO
-    {
-        public RoomTypeListDTO(int roomTypeID, string typeName)
-        {
-            RoomTypeID = roomTypeID;
-            TypeName = typeName;
-        }
-
-        public int RoomTypeID { get; set; }
-        public string TypeName { get; set; }
-    }
-
-    public class UpdateRoomTypeDTO
-    {
-        public UpdateRoomTypeDTO(int roomTypeID, string typeName)
-        {
-            RoomTypeID = roomTypeID;
-            TypeName = typeName;
-        }
-
-        public int RoomTypeID { get; set; }
-        public string TypeName { get; set; }
-    }
-
-
-
-
-
-
-
     public class clsRoomTypesData
     {
         public static List<RoomTypeListDTO> GetAllRoomTypes()

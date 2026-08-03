@@ -1,4 +1,4 @@
-﻿namespace HMSDes
+﻿namespace HMSDesktop
 {
     partial class fmMain
     {
@@ -287,6 +287,7 @@
             ucRoom.Name = "ucRoom";
             ucRoom.Size = new Size(963, 531);
             ucRoom.TabIndex = 12;
+            ucRoom.Load += ucRoom_Load;
             // 
             // ucClient
             // 

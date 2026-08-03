@@ -1,8 +1,9 @@
-﻿using HMSDataAccessLayer;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Net.Http;
 using System.Text;
+using HMSShared.DTOs.Rooms;
+using HMSShared.DTOs.RoomTypes;
 
 namespace HMSDesktop.Services
 {

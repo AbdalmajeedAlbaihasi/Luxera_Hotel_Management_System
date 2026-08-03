@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OawrxwvwQC0=",
+  "dgSpecHash": "cQPU1lHvuN8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Otel Yönetim Sistemi\\Full_Project\\HMSBusinessLayer\\HMSBusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSBusinessLayer\\HMSBusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2tita\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\2tita\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",
     "C:\\Users\\2tita\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
+    "C:\\Users\\2tita\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
     "C:\\Users\\2tita\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\2tita\\.nuget\\packages\\microsoft.data.sqlclient\\6.1.4\\microsoft.data.sqlclient.6.1.4.nupkg.sha512",
     "C:\\Users\\2tita\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\6.0.2\\microsoft.data.sqlclient.sni.runtime.6.0.2.nupkg.sha512",

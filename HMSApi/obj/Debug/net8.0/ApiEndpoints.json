@@ -1,5 +1,53 @@
 [
   {
+    "ContainingType": "HMSApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HMSShared.DTOs.Users.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HMSApi.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/Auth/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HMSShared.DTOs.RefreshTokens.LogoutRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HMSApi.Controllers.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Auth/refresh-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HMSShared.DTOs.RefreshTokens.RefreshTokenRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "HMSApi.Controllers.ClientAPIController",
     "Method": "GetClientById",
     "RelativePath": "api/ClientAPI/{Id}",
@@ -15,7 +63,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.ClientListDTO",
+        "Type": "HMSShared.DTOs.Client.ClientListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -54,13 +102,13 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.AddNewClientDTO",
+        "Type": "HMSShared.DTOs.Client.AddNewClientDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.ClientListDTO",
+        "Type": "HMSShared.DTOs.Client.ClientListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -90,7 +138,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSDataAccessLayer.ClientListDTO, HMSDataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSShared.DTOs.Client.ClientListDTO, HMSShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -161,7 +209,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSDataAccessLayer.ClientNameAndIDDTO, HMSDataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSShared.DTOs.Client.ClientNameAndIDDTO, HMSShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -196,7 +244,7 @@
       },
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.UpdateClientDTO",
+        "Type": "HMSShared.DTOs.Client.UpdateClientDTO",
         "IsRequired": true
       }
     ],
@@ -243,7 +291,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.NationalityListDTO",
+        "Type": "HMSShared.DTOs.Nationalities.NationalityListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -282,13 +330,13 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.AddNewNationalityDTO",
+        "Type": "HMSShared.DTOs.Nationalities.AddNewNationalityDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.NationalityListDTO",
+        "Type": "HMSShared.DTOs.Nationalities.NationalityListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -318,7 +366,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSDataAccessLayer.NationalityListDTO, HMSDataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSShared.DTOs.Nationalities.NationalityListDTO, HMSShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -354,7 +402,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.NationalityListDTO",
+        "Type": "HMSShared.DTOs.Nationalities.NationalityListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -471,7 +519,7 @@
       },
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.UpdateNationalityDTO",
+        "Type": "HMSShared.DTOs.Nationalities.UpdateNationalityDTO",
         "IsRequired": true
       }
     ],
@@ -518,7 +566,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.PaymentListDTO",
+        "Type": "HMSShared.DTOs.Payments.PaymentListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -557,13 +605,13 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.AddNewPaymentDTO",
+        "Type": "HMSShared.DTOs.Payments.AddNewPaymentDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.PaymentListDTO",
+        "Type": "HMSShared.DTOs.Payments.PaymentListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -593,7 +641,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSDataAccessLayer.PaymentListDTO, HMSDataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSShared.DTOs.Payments.PaymentListDTO, HMSShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -629,7 +677,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSDataAccessLayer.PaymentListDTO, HMSDataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSShared.DTOs.Payments.PaymentListDTO, HMSShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -714,7 +762,7 @@
       },
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.UpdatePaymentDTO",
+        "Type": "HMSShared.DTOs.Payments.UpdatePaymentDTO",
         "IsRequired": true
       }
     ],
@@ -761,7 +809,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.OneReservationListDTO",
+        "Type": "HMSShared.DTOs.Reservations.OneReservationListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -781,7 +829,7 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.AddNewReservationDTO",
+        "Type": "HMSShared.DTOs.Reservations.AddNewReservationDTO",
         "IsRequired": true
       }
     ],
@@ -797,7 +845,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSDataAccessLayer.ReservationListDTO, HMSDataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSShared.DTOs.Reservations.ReservationListDTO, HMSShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -833,7 +881,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSDataAccessLayer.RoomNumberDTO, HMSDataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSShared.DTOs.Reservations.RoomNumberDTO, HMSShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -879,7 +927,7 @@
       },
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.UpdateReservationDTO",
+        "Type": "HMSShared.DTOs.Reservations.UpdateReservationDTO",
         "IsRequired": true
       }
     ],
@@ -901,31 +949,13 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.RoleListDTO",
+        "Type": "HMSShared.DTOs.Roles.RoleListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
           "text/json"
         ],
         "StatusCode": 200
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 400
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 404
       }
     ],
     "EndpointName": "GetRoleById"
@@ -940,28 +970,19 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.AddNewRoleDTO",
+        "Type": "HMSShared.DTOs.Roles.AddNewRoleDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.RoleListDTO",
+        "Type": "HMSShared.DTOs.Roles.RoleListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
           "text/json"
         ],
-        "StatusCode": 201
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 400
+        "StatusCode": 200
       }
     ],
     "EndpointName": "AddRole"
@@ -976,7 +997,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSDataAccessLayer.RoleListDTO, HMSDataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSShared.DTOs.Roles.RoleListDTO, HMSShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1012,31 +1033,13 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.RoleListDTO",
+        "Type": "HMSShared.DTOs.Roles.RoleListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
           "text/json"
         ],
         "StatusCode": 200
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 400
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 404
       }
     ],
     "EndpointName": "GetRoleByName"
@@ -1055,31 +1058,7 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 400
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 404
-      }
-    ],
+    "ReturnTypes": [],
     "EndpointName": "DeleteRole"
   },
   {
@@ -1096,22 +1075,7 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 400
-      }
-    ],
+    "ReturnTypes": [],
     "EndpointName": "IsRoleNameExists"
   },
   {
@@ -1129,35 +1093,11 @@
       },
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.UpdateRoleDTO",
+        "Type": "HMSShared.DTOs.Roles.UpdateRoleDTO",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 400
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 404
-      }
-    ],
+    "ReturnTypes": [],
     "EndpointName": "UpdateRole"
   },
   {
@@ -1176,7 +1116,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.RoomListDTO",
+        "Type": "HMSShared.DTOs.Rooms.RoomListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1196,7 +1136,7 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.AddNewRoomDTO",
+        "Type": "HMSShared.DTOs.Rooms.AddNewRoomDTO",
         "IsRequired": true
       }
     ],
@@ -1212,7 +1152,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSDataAccessLayer.RoomListDTO, HMSDataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSShared.DTOs.Rooms.RoomListDTO, HMSShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1253,7 +1193,7 @@
       },
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.UpdateRoomDTO",
+        "Type": "HMSShared.DTOs.Rooms.UpdateRoomDTO",
         "IsRequired": true
       }
     ],
@@ -1275,7 +1215,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.RoomTypeListDTO",
+        "Type": "HMSShared.DTOs.RoomTypes.RoomTypeListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1295,7 +1235,7 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.AddNewRoomTypeDTO",
+        "Type": "HMSShared.DTOs.RoomTypes.AddNewRoomTypeDTO",
         "IsRequired": true
       }
     ],
@@ -1311,7 +1251,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSDataAccessLayer.RoomTypeListDTO, HMSDataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSShared.DTOs.RoomTypes.RoomTypeListDTO, HMSShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1337,7 +1277,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.RoomTypeListDTO",
+        "Type": "HMSShared.DTOs.RoomTypes.RoomTypeListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1378,10 +1318,46 @@
       },
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.UpdateRoomTypeDTO",
+        "Type": "HMSShared.DTOs.RoomTypes.UpdateRoomTypeDTO",
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HMSApi.Controllers.SecurityAlertAPIController",
+    "Method": "GetAll",
+    "RelativePath": "api/SecurityAlertAPI/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HMSApi.Controllers.SecurityAlertAPIController",
+    "Method": "Review",
+    "RelativePath": "api/SecurityAlertAPI/Review/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HMSApi.Controllers.SecurityAlertAPIController",
+    "Method": "GetUnread",
+    "RelativePath": "api/SecurityAlertAPI/Unread",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
@@ -1400,7 +1376,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.OneUserListDTO",
+        "Type": "HMSShared.DTOs.Users.OneUserListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1439,7 +1415,7 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.AddNewUserDTO",
+        "Type": "HMSShared.DTOs.Users.AddNewUserDTO",
         "IsRequired": true
       }
     ],
@@ -1471,7 +1447,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSDataAccessLayer.UserListDTO, HMSDataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMSShared.DTOs.Users.UserListDTO, HMSShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1507,7 +1483,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HMSDataAccessLayer.OneUserListDTO",
+        "Type": "HMSShared.DTOs.Users.OneUserListDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1579,47 +1555,6 @@
   },
   {
     "ContainingType": "HMSApi.Controllers.UserAPIController",
-    "Method": "Login",
-    "RelativePath": "api/UserAPI/Login",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "HMSDataAccessLayer.LoginDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 401
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 400
-      }
-    ],
-    "EndpointName": "Login"
-  },
-  {
-    "ContainingType": "HMSApi.Controllers.UserAPIController",
     "Method": "UpdateUser",
     "RelativePath": "api/UserAPI/Update/{Id}",
     "HttpMethod": "PUT",
@@ -1633,7 +1568,7 @@
       },
       {
         "Name": "dto",
-        "Type": "HMSDataAccessLayer.UpdateUserDTO",
+        "Type": "HMSShared.DTOs.Users.UpdateUserDTO",
         "IsRequired": true
       }
     ],

@@ -1,11 +1,13 @@
+using HMSBusinessLayer;
+using HMSShared.DTOs.Nationalities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using HMSBusinessLayer;
-using HMSDataAccessLayer;
 using System.Collections.Generic;
 
 namespace HMSApi.Controllers
 {
+    [Authorize(Policy = "CanManageHotel")]
     [Route("api/[controller]")]
     [ApiController]
     public class NationalityAPIController : ControllerBase

@@ -1,5 +1,5 @@
-﻿using HMSBusinessLayer;
-using HMSDesktop.Services;
+﻿using HMSDesktop.Services;
+using HMSShared.DTOs.Reservations;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -72,7 +72,7 @@ namespace HMSDesktop.User_Control
             }
         }
 
-        private void _PopulateGrid(List<clsReservationsBusiness.RoomTimelineRow> data)
+        private void _PopulateGrid(List<RoomTimelineRowDTO> data)
         {
             dataGridViewTimeline.Rows.Clear();
 
@@ -96,7 +96,7 @@ namespace HMSDesktop.User_Control
             }
         }
 
-        private void _FormatCell(DataGridViewCell cell, clsReservationsBusiness.DayStatusInfo dayInfo)
+        private void _FormatCell(DataGridViewCell cell, DayStatusInfoDTO dayInfo)
         {
             switch (dayInfo.Status)
             {

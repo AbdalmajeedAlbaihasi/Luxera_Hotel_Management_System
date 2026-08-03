@@ -1,0 +1,8 @@
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMS.Shared\obj\Debug\HMS.Shared.csproj.AssemblyReference.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMS.Shared\obj\Debug\HMS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMS.Shared\bin\Debug\HMS.Shared.exe.config
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMS.Shared\bin\Debug\HMS.Shared.exe
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMS.Shared\bin\Debug\HMS.Shared.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMS.Shared\obj\Debug\HMS.Shared.exe
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMS.Shared\obj\Debug\HMS.Shared.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMS.Shared\obj\Debug\HMS.Shared.exe.config

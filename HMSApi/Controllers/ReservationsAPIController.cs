@@ -1,5 +1,7 @@
-﻿using HMSBusinessLayer;
-using HMSDataAccessLayer;
+﻿using HMSApi.Services;
+using HMSBusinessLayer;
+using HMSShared.DTOs.Reservations;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -7,10 +9,22 @@ using System.Collections.Generic;
 
 namespace HMSApi.Controllers
 {
+    [Authorize(Policy = "CanManageHotel")]
     [Route("api/[controller]")]
     [ApiController]
     public class ReservationAPIController : ControllerBase
     {
+
+        private readonly AuditBusiness _auditBusiness;
+        private readonly UserContextService _userContext;
+
+
+        public ReservationAPIController(AuditBusiness auditBusiness,UserContextService userContext)
+        {
+            _auditBusiness = auditBusiness;
+            _userContext = userContext;
+        }
+
 
         [HttpGet("All")]
         public ActionResult<IEnumerable<ReservationListDTO>> GetAllReservations()
@@ -66,7 +80,7 @@ namespace HMSApi.Controllers
 
                 reservation.RoomID = dto.RoomID;
                 reservation.ClientId = dto.ClientId;
-                reservation.CreatedByUserID = dto.CreatedByUserID;
+                reservation.CreatedByUserID = _userContext.GetCurrentUserID();
                 reservation.CheckInDate = dto.CheckInDate;
                 reservation.CheckOutDate = dto.CheckOutDate;
                 reservation.Status = dto.Status;
@@ -75,6 +89,13 @@ namespace HMSApi.Controllers
 
                 if (!saved)
                     return BadRequest("Save Failed");
+
+                _auditBusiness.AddLog(
+                    _userContext.GetCurrentUserID(),
+                    "ADD_RESERVATION",
+                    $"Added reservation ID {reservation.ReservationID}"
+                );
+
 
                 return Ok(reservation.ReservationListDto);
             }
@@ -111,13 +132,19 @@ namespace HMSApi.Controllers
 
             reservation.RoomID = dto.RoomID;
             reservation.ClientId = dto.ClientId;
-            reservation.CreatedByUserID = dto.CreatedByUserID; 
+            reservation.CreatedByUserID = _userContext.GetCurrentUserID();
             reservation.CheckInDate = dto.CheckInDate;
             reservation.CheckOutDate = dto.CheckOutDate;
             reservation.Status = dto.Status;
 
             if (!reservation.Save())
                 return BadRequest("Update Failed");
+
+            _auditBusiness.AddLog(
+                _userContext.GetCurrentUserID(),
+                "UPDATE_RESERVATION",
+                $"Updated reservation ID {id}"
+            );
 
             return Ok("Updated Successfully");
         }
@@ -133,6 +160,12 @@ namespace HMSApi.Controllers
 
             if (!clsReservationsBusiness.DeleteReservation(id))
                 return NotFound("Reservation Not Found");
+
+            _auditBusiness.AddLog(
+                    _userContext.GetCurrentUserID(),
+                    "DELETE_RESERVATION",
+                    $"Deleted reservation ID {id}"
+                );
 
             return Ok("Deleted Successfully");
         }

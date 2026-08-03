@@ -2,77 +2,10 @@
 using System;
 using System.Data;
 using System.Collections.Generic;
-using HMSDataAccessLayer;
+using HMSShared.DTOs.Rooms;
 
 namespace HMSDataAccessLayer
 {
-    //DTOs
-    public class AddNewRoomDTO
-    {
-        public AddNewRoomDTO(string roomNumber, int roomTypeID, string status, int capacity, decimal pricePerNight)
-        {
-            RoomNumber = roomNumber;
-            RoomTypeID = roomTypeID;
-            Status = status;
-            Capacity = capacity;
-            PricePerNight = pricePerNight;
-        }
-
-        public string RoomNumber { get; set; }
-        public int RoomTypeID { get; set; }
-        public string Status { get; set; }
-        public int Capacity { get; set; }
-        public decimal PricePerNight { get; set; }
-
-    }
-
-    public class RoomListDTO
-    {
-        public RoomListDTO(int roomID, string roomNumber, int roomTypeID, string roomTypeName, decimal price, int capacity, string status)
-        {
-            RoomID = roomID;
-            RoomNumber = roomNumber;
-            RoomTypeID = roomTypeID;
-            RoomTypeName = roomTypeName;
-            Price = price;
-            Capacity = capacity;
-            Status = status;
-        }
-
-        public int RoomID { get; set; }
-        public string RoomNumber { get; set; }
-        public int RoomTypeID { get; set; }
-        public string RoomTypeName { get; set; }
-        public decimal Price { get; set; }
-        public int Capacity { get; set; }
-        public string Status { get; set; }
-    }
-
-    public class UpdateRoomDTO
-    {
-        public UpdateRoomDTO(int roomID, string roomNumber, int roomTypeID, string status, int capacity, decimal pricePerNight)
-        {
-            RoomID = roomID;
-            RoomNumber = roomNumber;
-            RoomTypeID = roomTypeID;
-            Status = status;
-            Capacity = capacity;
-            PricePerNight = pricePerNight;
-
-        }
-
-        public int RoomID { get; set; }
-        public string RoomNumber { get; set; }
-        public int RoomTypeID { get; set; }
-        public string Status { get; set; }
-        public int Capacity { get; set; }
-        public decimal PricePerNight { get; set; }
-    }
-
-
-
-
-
     public class clsRoomsData
     {
         public static List<RoomListDTO> GetAllRooms()

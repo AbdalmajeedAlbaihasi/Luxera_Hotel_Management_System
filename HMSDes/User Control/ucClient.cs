@@ -1,5 +1,4 @@
-﻿using HMSDataAccessLayer;
-using HMSDesktop.ApplicationServices;
+﻿using HMSDesktop.ApplicationServices;
 using HMSDesktop.Properties;
 using HMSDesktop.Services;
 using System;
@@ -11,6 +10,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using HMSShared.DTOs.Nationalities;
+using HMSShared.DTOs.Client;
 
 namespace HMSDesktop.User_Control
 {

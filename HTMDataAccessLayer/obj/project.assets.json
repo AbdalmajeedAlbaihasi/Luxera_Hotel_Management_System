@@ -47,6 +47,25 @@
           "lib/netstandard2.1/BCrypt-Net-Next.dll": {}
         }
       },
+      "Microsoft.AspNetCore.Authentication.JwtBearer/8.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "7.0.3"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.Bcl.AsyncInterfaces/8.0.0": {
         "type": "package",
         "compile": {
@@ -658,6 +677,16 @@
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
         }
+      },
+      "HMSShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HMSShared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HMSShared.dll": {}
+        }
       }
     }
   },
@@ -725,6 +754,21 @@
         "lib/netstandard2.1/BCrypt-Net-Next.dll",
         "lib/netstandard2.1/BCrypt.Net-Next.xml",
         "readme.md"
+      ]
+    },
+    "Microsoft.AspNetCore.Authentication.JwtBearer/8.0.0": {
+      "sha512": "rwxaZYHips5M9vqxRkGfJthTx+Ws4O4yCuefn17J371jL3ouC5Ker43h2hXb5yd9BMnImE9rznT75KJHm6bMgg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/8.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
+        "lib/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
+        "microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/8.0.0": {
@@ -1765,11 +1809,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "HMSShared/1.0.0": {
+      "type": "project",
+      "path": "../HMSShared/HMSShared.csproj",
+      "msbuildProject": "../HMSShared/HMSShared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "BCrypt.Net-Next >= 4.2.0",
+      "HMSShared >= 1.0.0",
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.0",
       "Microsoft.Data.SqlClient >= 6.1.4",
       "Newtonsoft.Json >= 13.0.4",
       "System.Net.Http.Json >= 10.0.6"
@@ -1782,11 +1833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Otel Yönetim Sistemi\\Full_Project\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj",
       "projectName": "HMSDataAccessLayer",
-      "projectPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Otel Yönetim Sistemi\\Full_Project\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\2tita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Otel Yönetim Sistemi\\Full_Project\\HTMDataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1807,7 +1858,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\HMSShared.csproj": {
+              "projectPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\HMSShared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1829,6 +1884,10 @@
           "BCrypt.Net-Next": {
             "target": "Package",
             "version": "[4.2.0, )"
+          },
+          "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "target": "Package",
+            "version": "[8.0.0, )"
           },
           "Microsoft.Data.SqlClient": {
             "target": "Package",

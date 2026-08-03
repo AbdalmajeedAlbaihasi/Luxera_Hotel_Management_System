@@ -1,0 +1,12 @@
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSShared\bin\Debug\net8.0\HMSShared.deps.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSShared\bin\Debug\net8.0\HMSShared.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSShared\bin\Debug\net8.0\HMSShared.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSShared\obj\Debug\net8.0\HMSShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSShared\obj\Debug\net8.0\HMSShared.AssemblyInfoInputs.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSShared\obj\Debug\net8.0\HMSShared.AssemblyInfo.cs
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSShared\obj\Debug\net8.0\HMSShared.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSShared\obj\Debug\net8.0\HMSShared.sourcelink.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSShared\obj\Debug\net8.0\HMSShared.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSShared\obj\Debug\net8.0\refint\HMSShared.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSShared\obj\Debug\net8.0\HMSShared.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSShared\obj\Debug\net8.0\ref\HMSShared.dll

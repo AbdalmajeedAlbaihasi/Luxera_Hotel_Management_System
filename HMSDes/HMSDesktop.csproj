@@ -15,11 +15,12 @@
 
   <ItemGroup>
     <PackageReference Include="BCrypt.Net-Next" Version="4.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HMSApi\HMSApi.csproj" />
+	  <ProjectReference Include="..\HMSShared\HMSShared.csproj" />
   </ItemGroup>
 
   <ItemGroup>

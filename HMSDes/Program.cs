@@ -1,6 +1,6 @@
 using HMSDesktop;
 
-namespace HMSDes
+namespace HMSDesktop
 {
     internal static class Program
     {

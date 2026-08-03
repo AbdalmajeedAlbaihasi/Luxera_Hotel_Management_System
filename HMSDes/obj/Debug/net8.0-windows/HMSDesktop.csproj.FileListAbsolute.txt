@@ -361,3 +361,41 @@ C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Pr
 C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.pdb
 C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.genruntimeconfig.cache
 C:\Users\2tita\Desktop\مشاريع البرمجه\Otel Yönetim Sistemi\Full_Project\HMSDes\obj\Debug\net8.0-windows\ref\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.exe
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.deps.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.runtimeconfig.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\BCrypt-Net-Next.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.AssemblyReference.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.fmLogIn.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.Properties.Resources.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucClient.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucReservation.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoom.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Control.ucRoomTimeline.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.User_Contrul.ucUser.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.GenerateResource.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfoInputs.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.AssemblyInfo.cs
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.CoreCompileInputs.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.sourcelink.json
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.csproj.Up2Date
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\refint\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.pdb
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.genruntimeconfig.cache
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\ref\HMSDesktop.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\obj\Debug\net8.0-windows\HMSDesktop.fmMain.resources
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSShared.dll
+C:\Users\2tita\Desktop\Luxera_Hotel_Management_System\HMSDes\bin\Debug\net8.0-windows\HMSShared.pdb

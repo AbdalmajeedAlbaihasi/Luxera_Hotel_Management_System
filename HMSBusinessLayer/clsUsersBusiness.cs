@@ -2,6 +2,8 @@
 using BCrypt.Net;
 using System;
 using System.Collections.Generic;
+using HMSShared.DTOs.Users;
+
 
 namespace HMSBusinessLayer
 {
@@ -59,7 +61,6 @@ namespace HMSBusinessLayer
                 return new OneUserListDTO(
                     this.UserID,
                     this.UserName,
-                    this.Password,
                     this.IsActive,
                     this.FName,
                     this.LName,
@@ -81,7 +82,7 @@ namespace HMSBusinessLayer
             {
                 return new AddNewUserDTO(
                     this.UserName,
-                    this.Password,
+                    BCrypt.Net.BCrypt.HashPassword(this.Password),
                     this.IsActive,
                     this.FName,
                     this.LName,
@@ -100,10 +101,18 @@ namespace HMSBusinessLayer
         {
             get
             {
+                string passwordToSave = this.Password;
+
+                if (!string.IsNullOrWhiteSpace(passwordToSave))
+                {
+                    passwordToSave = BCrypt.Net.BCrypt.HashPassword(passwordToSave);
+                }
+
+
                 return new UpdateUserDTO(
                     this.UserID,
                     this.UserName,
-                    this.Password,
+                    passwordToSave,
                     this.IsActive,
                     this.FName,
                     this.LName,
@@ -138,7 +147,7 @@ namespace HMSBusinessLayer
             this.ImagePath = "";
             this.Mode = enMode.Addnew;
         }
-
+       
 
         public clsUsersBusiness(AddNewUserDTO DTO, enMode cMode = enMode.Addnew)
         {
@@ -180,7 +189,6 @@ namespace HMSBusinessLayer
         {
             this.UserID = DTO.UserID;
             this.UserName = DTO.UserName;
-            this.Password = DTO.Password;
             this.IsActive = DTO.IsActive;
             this.FName = DTO.FName;
             this.LName = DTO.LName;
@@ -200,7 +208,22 @@ namespace HMSBusinessLayer
         //Methods
         public static UserLoginDTO AuthenticateUser(string username, string password)
         {
-            return clsUsersData.AuthenticateUser(username, password);
+            UserLoginDTO user = clsUsersData.AuthenticateUser(username);
+
+            if (user == null)
+            {
+                return null;
+            }
+
+            bool isValid = BCrypt.Net.BCrypt.Verify(password, user.PasswordHash);
+
+            if (!isValid)
+            {
+                return null;
+            }
+
+
+            return user;
         }
 
 

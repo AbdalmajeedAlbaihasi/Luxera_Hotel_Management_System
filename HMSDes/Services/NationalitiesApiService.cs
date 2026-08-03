@@ -1,5 +1,4 @@
-﻿using HMSDataAccessLayer;
-using HMSDesktop.Services;
+﻿using HMSDesktop.Services;
 using HMSDesktop.User_Control;
 using Newtonsoft.Json;
 using System;
@@ -7,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HMSShared.DTOs.Nationalities;
 
 namespace HMSDesktop.Services
 {

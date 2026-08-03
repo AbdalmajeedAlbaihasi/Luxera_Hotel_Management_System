@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMSBusinessLayer", "..\HMSB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMSDataAccessLayer", "..\HTMDataAccessLayer\HMSDataAccessLayer.csproj", "{B90A81AF-EB59-43B2-B19A-7F2D4CB10332}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMSDesktop", "..\HMSDes\HMSDesktop.csproj", "{6F9FF99A-EF6B-A5FE-E9A1-89BE6544D200}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMSShared", "..\HMSShared\HMSShared.csproj", "{F7E79464-C4CB-4F02-9E4F-05C8F1CA8024}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{B90A81AF-EB59-43B2-B19A-7F2D4CB10332}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B90A81AF-EB59-43B2-B19A-7F2D4CB10332}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B90A81AF-EB59-43B2-B19A-7F2D4CB10332}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6F9FF99A-EF6B-A5FE-E9A1-89BE6544D200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6F9FF99A-EF6B-A5FE-E9A1-89BE6544D200}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6F9FF99A-EF6B-A5FE-E9A1-89BE6544D200}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6F9FF99A-EF6B-A5FE-E9A1-89BE6544D200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E79464-C4CB-4F02-9E4F-05C8F1CA8024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E79464-C4CB-4F02-9E4F-05C8F1CA8024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E79464-C4CB-4F02-9E4F-05C8F1CA8024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E79464-C4CB-4F02-9E4F-05C8F1CA8024}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

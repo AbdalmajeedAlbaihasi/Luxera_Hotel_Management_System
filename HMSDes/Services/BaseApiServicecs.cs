@@ -2,6 +2,7 @@
 using Newtonsoft.Json;
 using System;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading.Tasks;
@@ -18,20 +19,20 @@ namespace HMSDesktop.Services
         // ==============================
 
 
-        protected static readonly HttpClient client;
+        //protected static readonly HttpClient client;
 
-        static BaseApiService()
-        {
-            var handler = new HttpClientHandler
-            {
-                ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => true
-            };
+        //static BaseApiService()
+        //{
+        //    var handler = new HttpClientHandler
+        //    {
+        //        ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => true
+        //    };
 
-            client = new HttpClient(handler)
-            {
-                BaseAddress = new Uri("http://luxera-hms-api.runasp.net/api/")
-            };
-        }
+        //    client = new HttpClient(handler)
+        //    {
+        //        BaseAddress = new Uri("http://luxera-hms-api.runasp.net/api/")
+        //    };
+        //}
 
 
 
@@ -42,10 +43,10 @@ namespace HMSDesktop.Services
         // إعدادات السيرفر المحلي للتطوير
         // ==============================
 
-        //protected static readonly HttpClient client = new HttpClient
-        //{
-        //    BaseAddress = new Uri("https://localhost:7152/api/")
-        //};
+        protected static readonly HttpClient client = new HttpClient
+        {
+            BaseAddress = new Uri("https://localhost:7152/api/")
+        };
 
         protected async Task<T?> GetAsync<T>(string url)
         {
@@ -94,6 +95,12 @@ namespace HMSDesktop.Services
         {
             var res = await client.DeleteAsync(url);
             return res.IsSuccessStatusCode;
+        }
+
+        public static void SetToken(string token)
+        {
+            client.DefaultRequestHeaders.Authorization =
+                new AuthenticationHeaderValue("Bearer", token);
         }
     }
 }

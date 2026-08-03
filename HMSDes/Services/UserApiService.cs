@@ -7,9 +7,7 @@ using System.Net.Http;
 using System.Net.Http.Json;
 using System.Text.Json.Serialization;
 using Newtonsoft.Json;
-using HMSDataAccessLayer;
-using Newtonsoft.Json.Linq;
-using System.Text;
+using HMSShared.DTOs.Users;
 using Newtonsoft.Json.Linq;
 
 namespace HMSDesktop.Services
@@ -110,21 +108,28 @@ namespace HMSDesktop.Services
         }
 
 
-        public async Task<UserLoginDTO> LoginAsync(LoginDTO dto)
+        public async Task<LoginResponseDTO> LoginAsync(LoginDTO dto)
         {
-            var content = new StringContent(JsonConvert.SerializeObject(dto), Encoding.UTF8, "application/json");
+            var content = new StringContent(
+                JsonConvert.SerializeObject(dto),
+                Encoding.UTF8,
+                "application/json");
 
-            var res = await client.PostAsync("UserAPI/Login", content);
+            var res = await client.PostAsync("Auth/Login", content);
+
+            if (!res.IsSuccessStatusCode)
+                return null;
 
             var json = await res.Content.ReadAsStringAsync();
 
+            var result = JsonConvert.DeserializeObject<LoginResponseDTO>(json);
 
-            if (res.IsSuccessStatusCode)
+            if (result != null)
             {
-                return JsonConvert.DeserializeObject<UserLoginDTO>(json);
+                SetToken(result.AccessToken);
             }
 
-            return null;
+            return result;
         }
 
 

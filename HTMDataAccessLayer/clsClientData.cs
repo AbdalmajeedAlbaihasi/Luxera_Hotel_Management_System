@@ -2,98 +2,10 @@ using Microsoft.Data.SqlClient;
 using System;
 using System.Data;
 using System.Collections.Generic;
-using HMSDataAccessLayer;
+using HMSShared.DTOs.Client;
 
 namespace HMSDataAccessLayer
 {
-    // DTOs
-    public class ClientNameAndIDDTO
-    {
-        public ClientNameAndIDDTO(int clientID, string firstName, string lastName)
-        {
-            ClientID = clientID;
-            FirstName = firstName;
-            LastName = lastName;
-        }
-        public int ClientID { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-    }
-
-    public class AddNewClientDTO
-    {
-        public AddNewClientDTO(int createdByUserID, string firstName, string lastName, DateTime birthDate, int nationalityID, string phoneNumber, string gender)
-        {
-            CreatedByUserID = createdByUserID;
-            FirstName = firstName;
-            LastName = lastName;
-            BirthDate = birthDate;
-            NationalityID = nationalityID;
-            PhoneNumber = phoneNumber;
-            Gender = gender;
-        }
-
-        public int CreatedByUserID { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public DateTime BirthDate { get; set; }
-        public int NationalityID { get; set; }
-        public string PhoneNumber { get; set; }
-        public string Gender { get; set; }
-    }
-
-    public class ClientListDTO
-    {
-        public ClientListDTO(int clientID, int createdByUserID, string firstName, string lastName, DateTime birthDate, int nationalityID, string phoneNumber, string gender, DateTime createdAt)
-        {
-            ClientID = clientID;
-            CreatedByUserID = createdByUserID;
-            FirstName = firstName;
-            LastName = lastName;
-            BirthDate = birthDate;
-            NationalityID = nationalityID;
-            PhoneNumber = phoneNumber;
-            Gender = gender;
-            CreatedAt = createdAt;
-        }
-
-        public int ClientID { get; set; }
-        public int CreatedByUserID { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public DateTime BirthDate { get; set; }
-        public int NationalityID { get; set; }
-        public string PhoneNumber { get; set; }
-        public string Gender { get; set; }
-        public DateTime CreatedAt { get; set; }
-    }
-
-    public class UpdateClientDTO
-    {
-        public UpdateClientDTO(int clientID, int createdByUserID, string firstName, string lastName, DateTime birthDate, int nationalityID, string phoneNumber, string gender)
-        {
-            ClientID = clientID;
-            CreatedByUserID = createdByUserID;
-            FirstName = firstName;
-            LastName = lastName;
-            BirthDate = birthDate;
-            NationalityID = nationalityID;
-            PhoneNumber = phoneNumber;
-            Gender = gender;
-        }
-
-        public int ClientID { get; set; }
-        public int CreatedByUserID { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public DateTime BirthDate { get; set; }
-        public int NationalityID { get; set; }
-        public string PhoneNumber { get; set; }
-        public string Gender { get; set; }
-    }
-
-
-
 
     public class clsClientsData
     {

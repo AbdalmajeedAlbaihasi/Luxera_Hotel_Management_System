@@ -1,16 +1,17 @@
 using HMSDesktop;
 using HMSDesktop.Services;
+using HMSDesktop.User_Contrul;
 using Microsoft.VisualBasic.ApplicationServices;
 using System.Globalization;
 
-namespace HMSDes
+namespace HMSDesktop
 {
     public partial class fmMain : Form
     {
         //Members
         private string _roleName;
         public string Name { get; set; }
-
+        private ucUser _ucUser;
 
 
         //Constructor
@@ -18,9 +19,10 @@ namespace HMSDes
         {
             InitializeComponent();
             _roleName = roleName;
+            _ucUser = new ucUser(roleName);
         }
 
-
+        
 
 
 
@@ -38,7 +40,6 @@ namespace HMSDes
             {
                 btUser.Enabled = false;
                 ucClient.Show();
-                ucUser.Hide();
                 SetActiveButton(btClient);
             }
             else if (_roleName == "Manager")
@@ -89,7 +90,10 @@ namespace HMSDes
         private void btClient_Click(object sender, EventArgs e)
         {
             SetActiveButton(btClient);
-            ucUser.Hide();
+            if (_roleName == "Manager")
+            {
+                ucUser.Hide();
+            }
             ucClient.Show();
             ucRoom.Hide();
             ucReservation.Hide();
@@ -99,7 +103,10 @@ namespace HMSDes
         private void btRoom_Click(object sender, EventArgs e)
         {
             SetActiveButton(btRoom);
-            ucUser.Hide();
+            if (_roleName == "Manager")
+            {
+                ucUser.Hide();
+            }
             ucClient.Hide();
             ucRoom.Show();
             ucReservation.Hide();
@@ -109,7 +116,10 @@ namespace HMSDes
         private async void btReservation_Click(object sender, EventArgs e)
         {
             SetActiveButton(btReservation);
-            ucUser.Hide();
+            if (_roleName == "Manager")
+            {
+                ucUser.Hide();
+            }
             ucClient.Hide();
             ucRoom.Hide();
             ucRoomTimeline.Hide();
@@ -121,7 +131,10 @@ namespace HMSDes
         private async void btTimeline_Click(object sender, EventArgs e)
         {
             SetActiveButton(btTimeline);
-            ucUser.Hide();
+            if (_roleName == "Manager")
+            {
+                ucUser.Hide();
+            }
             ucClient.Hide();
             ucRoom.Hide();
             ucReservation.Hide();
@@ -181,6 +194,11 @@ namespace HMSDes
         }
 
         private void ucRoomTimeline_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ucRoom_Load(object sender, EventArgs e)
         {
 
         }

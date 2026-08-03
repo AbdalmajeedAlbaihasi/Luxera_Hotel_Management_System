@@ -1,5 +1,4 @@
-﻿using HMSDataAccessLayer;
-using HMSDesktop.Services;
+﻿using HMSDesktop.Services;
 using Microsoft.VisualBasic.ApplicationServices;
 using System;
 using System.Collections.Generic;
@@ -11,6 +10,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.VisualStyles;
+using HMSShared.DTOs.Rooms;
+using HMSShared.DTOs.RoomTypes;
 
 namespace HMSDesktop.User_Control
 {
