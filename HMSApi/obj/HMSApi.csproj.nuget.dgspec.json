@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\HMSApi.csproj": {}
+    "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSApi\\HMSApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\HMSApi.csproj": {
+    "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSApi\\HMSApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\HMSApi.csproj",
+        "projectUniqueName": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSApi\\HMSApi.csproj",
         "projectName": "HMSApi",
-        "projectPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\HMSApi.csproj",
+        "projectPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSApi\\HMSApi.csproj",
         "packagesPath": "C:\\Users\\2tita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\obj\\",
+        "outputPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSBusinessLayer\\HMSBusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSBusinessLayer\\HMSBusinessLayer.csproj"
+              "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSBusinessLayer\\HMSBusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSBusinessLayer\\HMSBusinessLayer.csproj"
               },
-              "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\HMSShared.csproj": {
-                "projectPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\HMSShared.csproj"
+              "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSShared\\HMSShared.csproj": {
+                "projectPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSShared\\HMSShared.csproj"
               }
             }
           }
@@ -106,14 +106,14 @@
         }
       }
     },
-    "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSBusinessLayer\\HMSBusinessLayer.csproj": {
+    "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSBusinessLayer\\HMSBusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSBusinessLayer\\HMSBusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSBusinessLayer\\HMSBusinessLayer.csproj",
         "projectName": "HMSBusinessLayer",
-        "projectPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSBusinessLayer\\HMSBusinessLayer.csproj",
+        "projectPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSBusinessLayer\\HMSBusinessLayer.csproj",
         "packagesPath": "C:\\Users\\2tita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSBusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSBusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -135,11 +135,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\HMSShared.csproj": {
-                "projectPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\HMSShared.csproj"
+              "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSShared\\HMSShared.csproj": {
+                "projectPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSShared\\HMSShared.csproj"
               },
-              "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj"
+              "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj"
               }
             }
           }
@@ -201,14 +201,14 @@
         }
       }
     },
-    "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\HMSShared.csproj": {
+    "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSShared\\HMSShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\HMSShared.csproj",
+        "projectUniqueName": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSShared\\HMSShared.csproj",
         "projectName": "HMSShared",
-        "projectPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\HMSShared.csproj",
+        "projectPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSShared\\HMSShared.csproj",
         "packagesPath": "C:\\Users\\2tita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\obj\\",
+        "outputPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSShared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -267,14 +267,14 @@
         }
       }
     },
-    "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj": {
+    "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj",
         "projectName": "HMSDataAccessLayer",
-        "projectPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\2tita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HTMDataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -296,8 +296,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\HMSShared.csproj": {
-                "projectPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\HMSShared.csproj"
+              "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSShared\\HMSShared.csproj": {
+                "projectPath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\HMSShared\\HMSShared.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NKbeJKEkGnw=",
+  "dgSpecHash": "dPahQZ94x4E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\LuxeraDesktop\\HMSDesktop\\HMSDesktop.csproj",
+  "projectFilePath": "C:\\Users\\2tita\\Desktop\\مشاريع البرمجه\\Luxera_Hotel_Management_System_v2\\LuxeraDesktop\\HMSDesktop\\HMSDesktop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2tita\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
     "C:\\Users\\2tita\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",

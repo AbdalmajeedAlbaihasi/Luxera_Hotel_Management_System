@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HMSDesktop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9a507279772d043ab941a4724b12a2c8fcab09a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dba24e3bbc55768f29c1fc750dd3d7041e0ba8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("HMSDesktop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HMSDesktop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

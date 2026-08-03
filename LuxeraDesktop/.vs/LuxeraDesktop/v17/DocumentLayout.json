@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\LuxeraDesktop\\",
+  "WorkspaceRootPath": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Luxera_Hotel_Management_System_v2\\LuxeraDesktop\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSDes\\User Control\\ucUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -25,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,44 +48,44 @@
               "DocumentIndex": 1,
               "Title": "NationalitiesApiService.cs",
               "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSDes\\Services\\NationalitiesApiService.cs",
-              "RelativeDocumentMoniker": "..\\HMSDes\\Services\\NationalitiesApiService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Luxera_Hotel_Management_System\\HMSDes\\Services\\NationalitiesApiService.cs",
               "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSDes\\Services\\NationalitiesApiService.cs",
-              "RelativeToolTip": "..\\HMSDes\\Services\\NationalitiesApiService.cs",
+              "RelativeToolTip": "..\\..\\..\\Luxera_Hotel_Management_System\\HMSDes\\Services\\NationalitiesApiService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-03T09:49:51Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ucUser.cs",
+              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSDes\\User Control\\ucUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Luxera_Hotel_Management_System\\HMSDes\\User Control\\ucUser.cs",
+              "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSDes\\User Control\\ucUser.cs",
+              "RelativeToolTip": "..\\..\\..\\Luxera_Hotel_Management_System\\HMSDes\\User Control\\ucUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T09:46:48.946Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "NationalityListDTO.cs",
               "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\DTOs\\Nationalities\\NationalityListDTO.cs",
-              "RelativeDocumentMoniker": "..\\HMSShared\\DTOs\\Nationalities\\NationalityListDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Luxera_Hotel_Management_System\\HMSShared\\DTOs\\Nationalities\\NationalityListDTO.cs",
               "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSShared\\DTOs\\Nationalities\\NationalityListDTO.cs",
-              "RelativeToolTip": "..\\HMSShared\\DTOs\\Nationalities\\NationalityListDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\Luxera_Hotel_Management_System\\HMSShared\\DTOs\\Nationalities\\NationalityListDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-03T09:49:31.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ucUser.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSDes\\User Control\\ucUser.cs",
-              "RelativeDocumentMoniker": "..\\HMSDes\\User Control\\ucUser.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSDes\\User Control\\ucUser.cs",
-              "RelativeToolTip": "..\\HMSDes\\User Control\\ucUser.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T09:46:48.946Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ucUser.cs [Design]",
               "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSDes\\User Control\\ucUser.cs",
-              "RelativeDocumentMoniker": "..\\HMSDes\\User Control\\ucUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Luxera_Hotel_Management_System\\HMSDes\\User Control\\ucUser.cs",
               "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSDes\\User Control\\ucUser.cs [Design]",
-              "RelativeToolTip": "..\\HMSDes\\User Control\\ucUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Luxera_Hotel_Management_System\\HMSDes\\User Control\\ucUser.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-03T09:46:29.97Z"
             },
@@ -94,9 +94,9 @@
               "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSDes\\Program.cs",
-              "RelativeDocumentMoniker": "..\\HMSDes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Luxera_Hotel_Management_System\\HMSDes\\Program.cs",
               "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSDes\\Program.cs",
-              "RelativeToolTip": "..\\HMSDes\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Luxera_Hotel_Management_System\\HMSDes\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-03T09:37:11.027Z"

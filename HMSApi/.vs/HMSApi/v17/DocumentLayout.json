@@ -1,20 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\",
+  "WorkspaceRootPath": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Luxera_Hotel_Management_System_v2\\HMSApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|c:\\users\\2tita\\desktop\\luxera_hotel_management_system\\hmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|c:\\users\\2tita\\desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\luxera_hotel_management_system_v2\\hmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|c:\\users\\2tita\\desktop\\luxera_hotel_management_system\\hmsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|c:\\users\\2tita\\desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\luxera_hotel_management_system_v2\\hmsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{27E8F6C8-2188-4E25-A82F-B3CDCCCC12CF}|HMSApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90A81AF-EB59-43B2-B19A-7F2D4CB10332}|..\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj|c:\\users\\2tita\\desktop\\luxera_hotel_management_system\\htmdataaccesslayer\\clsusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsUsersData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90A81AF-EB59-43B2-B19A-7F2D4CB10332}|..\\HTMDataAccessLayer\\HMSDataAccessLayer.csproj|c:\\users\\2tita\\desktop\\luxera_hotel_management_system\\htmdataaccesslayer\\clsreservationsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsReservationsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,9 +46,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Luxera_Hotel_Management_System_v2\\HMSApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\Program.cs",
+              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Luxera_Hotel_Management_System_v2\\HMSApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,9 +59,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Luxera_Hotel_Management_System_v2\\HMSApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HMSApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\2tita\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0647\\Luxera_Hotel_Management_System_v2\\HMSApi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -72,9 +72,9 @@
               "DocumentIndex": 2,
               "Title": "clsUsersData.cs",
               "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsUsersData.cs",
-              "RelativeDocumentMoniker": "..\\HTMDataAccessLayer\\clsUsersData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsUsersData.cs",
               "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsUsersData.cs",
-              "RelativeToolTip": "..\\HTMDataAccessLayer\\clsUsersData.cs",
+              "RelativeToolTip": "..\\..\\..\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsUsersData.cs",
               "ViewState": "AgIAAHsAAAAAAAAAAAAAAI8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-01T17:12:42.213Z"
@@ -84,9 +84,9 @@
               "DocumentIndex": 3,
               "Title": "clsReservationsData.cs",
               "DocumentMoniker": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsReservationsData.cs",
-              "RelativeDocumentMoniker": "..\\HTMDataAccessLayer\\clsReservationsData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsReservationsData.cs",
               "ToolTip": "C:\\Users\\2tita\\Desktop\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsReservationsData.cs",
-              "RelativeToolTip": "..\\HTMDataAccessLayer\\clsReservationsData.cs",
+              "RelativeToolTip": "..\\..\\..\\Luxera_Hotel_Management_System\\HTMDataAccessLayer\\clsReservationsData.cs",
               "ViewState": "AgIAALYAAAAAAAAAAAAqwMUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-01T17:11:16.173Z"
